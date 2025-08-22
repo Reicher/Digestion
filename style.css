@@ -21,6 +21,49 @@ html, body {
     justify-content: center;
 }
 
+#left-pane {
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding-top: 20px;
+}
+
+.organ-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.organ-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.organ-label {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.inventory-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 40px);
+    grid-template-rows: repeat(3, 40px);
+    gap: 4px;
+}
+
+.inventory-slot {
+    width: 40px;
+    height: 40px;
+    border: 1px solid #333;
+    box-sizing: border-box;
+}
+
+.arrow {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
 #card-grid {
     display: grid;
     grid-template-columns: repeat(4, 100px);
