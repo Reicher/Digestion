@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Almonds",
+    "context": "Paleo",
+    "components": {
+      "sugar": 1,
+      "starch": 1,
+      "fiber": 2,
+      "fat": 4,
+      "protein": 1
+    }
+  },
+  {
+    "name": "Wild Berries",
+    "context": "Paleo",
+    "components": {
+      "sugar": 2,
+      "starch": 0,
+      "fiber": 1,
+      "fat": 0,
+      "protein": 0
+    }
+  },
+  {
+    "name": "Rabbit Meat",
+    "context": "Paleo",
+    "components": {
+      "sugar": 0,
+      "starch": 0,
+      "fiber": 0,
+      "fat": 2,
+      "protein": 5
+    }
+  },
+  {
+    "name": "Bison Steak",
+    "context": "Paleo",
+    "components": {
+      "sugar": 0,
+      "starch": 0,
+      "fiber": 0,
+      "fat": 5,
+      "protein": 5
+    }
+  },
+  {
+    "name": "Wild Salmon",
+    "context": "Paleo",
+    "components": {
+      "sugar": 0,
+      "starch": 0,
+      "fiber": 0,
+      "fat": 5,
+      "protein": 4
+    }
+  },
+  {
+    "name": "Sweet Potato",
+    "context": "Paleo",
+    "components": {
+      "sugar": 2,
+      "starch": 4,
+      "fiber": 2,
+      "fat": 0,
+      "protein": 1
+    }
+  },
+  {
+    "name": "Wild Honey",
+    "context": "Paleo",
+    "components": {
+      "sugar": 8,
+      "starch": 0,
+      "fiber": 0,
+      "fat": 0,
+      "protein": 0
+    }
+  },
+  {
+    "name": "Chestnuts",
+    "context": "Paleo",
+    "components": {
+      "sugar": 1,
+      "starch": 4,
+      "fiber": 2,
+      "fat": 1,
+      "protein": 1
+    }
+  },
+  {
+    "name": "Porcini Mushroom",
+    "context": "Paleo",
+    "components": {
+      "sugar": 1,
+      "starch": 2,
+      "fiber": 1,
+      "fat": 0,
+      "protein": 2
+    }
+  },
+  {
+    "name": "Wild Carrot",
+    "context": "Paleo",
+    "components": {
+      "sugar": 3,
+      "starch": 1,
+      "fiber": 2,
+      "fat": 0,
+      "protein": 1
+    }
+  }
+]
