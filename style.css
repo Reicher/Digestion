@@ -21,6 +21,20 @@ html, body {
     justify-content: center;
 }
 
+#card-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 80px);
+    grid-template-rows: repeat(2, 120px);
+    gap: 10px;
+}
+
+.card-slot {
+    width: 80px;
+    height: 120px;
+    border: 2px dashed #ccc;
+    border-radius: 8px;
+}
+
 #divider {
     width: 4px;
     background: #333;
